@@ -1,4 +1,4 @@
-# Hi, I’m Isaac (aka stardorri)
+# Hi, I’m Angel (aka stardorri)
 
 - Aspiring red teamer | B.S. Computer Science student
 - Currently learning: TryHackMe, Python scripting, and Security+
